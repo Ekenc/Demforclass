@@ -1,0 +1,2 @@
+# Demforclass
+Class demo
